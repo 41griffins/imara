@@ -1,0 +1,46 @@
+body {
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-color: hsla(0, 100%, 100%, 0.938), 100%)50, 247, 247),
+        margin: 0;
+    padding: 0;
+    background-color: #f9fbfc;
+    background-image: -moz-linear-gradient(promoImage-01.jpg);
+}
+
+header, footer {
+    background-color: rgb(43, 7, 248);
+    color: rgb(3, 0, 10)
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    text-align: center;
+    margin: 1em 0;
+}
+
+nav a {
+    margin: 0 10px;
+    color: #840af7;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #007BFF;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+p, ol {
+    text-align: center;
+}
+
+ol {
+    padding-left: 0;
+    list-style-position: inside;
+}
